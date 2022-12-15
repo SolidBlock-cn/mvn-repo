@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "pers.solid",
+    "module": "brrp-forge",
+    "version": "0.8.2-1.17.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 16,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "brrp-forge-0.8.2-1.17.1.jar",
+          "url": "brrp-forge-0.8.2-1.17.1.jar",
+          "size": 246019,
+          "sha512": "8710d96d47aa04ccb328c6b0130a7fc8e0f015554ec3a657216e53b9a294c0dc79538ff8ac3bf2370e1ad5c57b190312dbc4d3e571315466c18e443157e71e83",
+          "sha256": "9b6c89ac8303557d307bda879305a715958a0fa08548d60e84bb67f4392ca9b0",
+          "sha1": "11273f8d921700fe31b94c821c29bb61617b264b",
+          "md5": "1dd3f50a83c689a38fee33c5590fc1ba"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 16,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "brrp-forge-0.8.2-1.17.1.jar",
+          "url": "brrp-forge-0.8.2-1.17.1.jar",
+          "size": 246019,
+          "sha512": "8710d96d47aa04ccb328c6b0130a7fc8e0f015554ec3a657216e53b9a294c0dc79538ff8ac3bf2370e1ad5c57b190312dbc4d3e571315466c18e443157e71e83",
+          "sha256": "9b6c89ac8303557d307bda879305a715958a0fa08548d60e84bb67f4392ca9b0",
+          "sha1": "11273f8d921700fe31b94c821c29bb61617b264b",
+          "md5": "1dd3f50a83c689a38fee33c5590fc1ba"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "brrp-forge-0.8.2-1.17.1-sources.jar",
+          "url": "brrp-forge-0.8.2-1.17.1-sources.jar",
+          "size": 171841,
+          "sha512": "3a2bc7537f8be5542383844eb0484396cec260f9d776de40a9d733a6bc832696898fc6181cef2b44faa983551181a4c30f3677f3b1e8fdb2a3a1aa36bce1584f",
+          "sha256": "ca8619ffea791df659669293cb902dd41e1b63fbcea18412f73030aac331a2a5",
+          "sha1": "5a1d2d510073595fd860cac1ccc3bf5822436059",
+          "md5": "dd56082e2ee1a7392e6fbf5fc0991b52"
+        }
+      ]
+    }
+  ]
+}

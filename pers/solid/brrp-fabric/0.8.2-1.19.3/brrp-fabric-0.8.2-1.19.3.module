@@ -27,11 +27,11 @@
         {
           "name": "brrp-fabric-0.8.2-1.19.3.jar",
           "url": "brrp-fabric-0.8.2-1.19.3.jar",
-          "size": 251438,
-          "sha512": "b7f33d4b84df7241a778d97440dacd508e1635aaffdb2123e38a220e83dea0d1f0587f899d457bfa109b15a92c8e67ee701ef9bcd66ae40fc206d4dc800acc39",
-          "sha256": "7fe3ae98e28adc5e37a92a4edd7331d858ccf842ed15886d99995cff971c5b0c",
-          "sha1": "dad04d1f3026769e3ffe6bb5ee9a0c3a304ea14d",
-          "md5": "b600edf58fa0833a1cf4b046b1e5b63c"
+          "size": 251424,
+          "sha512": "d3f3206f33ad5fade502afae2dbd031a4f087de5062f4d19155441790a3a8a285c76fc210b559a293b20c7638214920d945b316de455b3521b5db8f33b95953f",
+          "sha256": "b1090f50a5eb4e1ccabab77436b4d26a350403e1c26e9610ff8c2c399b46ee1f",
+          "sha1": "9c5c1822dc52055de035ebbade1fe0a8d43232cc",
+          "md5": "284bd8dca1b6854caff547af72476a77"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "brrp-fabric-0.8.2-1.19.3.jar",
           "url": "brrp-fabric-0.8.2-1.19.3.jar",
-          "size": 251438,
-          "sha512": "b7f33d4b84df7241a778d97440dacd508e1635aaffdb2123e38a220e83dea0d1f0587f899d457bfa109b15a92c8e67ee701ef9bcd66ae40fc206d4dc800acc39",
-          "sha256": "7fe3ae98e28adc5e37a92a4edd7331d858ccf842ed15886d99995cff971c5b0c",
-          "sha1": "dad04d1f3026769e3ffe6bb5ee9a0c3a304ea14d",
-          "md5": "b600edf58fa0833a1cf4b046b1e5b63c"
+          "size": 251424,
+          "sha512": "d3f3206f33ad5fade502afae2dbd031a4f087de5062f4d19155441790a3a8a285c76fc210b559a293b20c7638214920d945b316de455b3521b5db8f33b95953f",
+          "sha256": "b1090f50a5eb4e1ccabab77436b4d26a350403e1c26e9610ff8c2c399b46ee1f",
+          "sha1": "9c5c1822dc52055de035ebbade1fe0a8d43232cc",
+          "md5": "284bd8dca1b6854caff547af72476a77"
         }
       ]
     },
@@ -84,11 +84,11 @@
         {
           "name": "brrp-fabric-0.8.2-1.19.3-sources.jar",
           "url": "brrp-fabric-0.8.2-1.19.3-sources.jar",
-          "size": 175165,
-          "sha512": "448091d05d16876a40a2ccf6c0fda5f951b517f4765e10b7a63645336a828caca0f3a03a80948be810090dcc9bb686d98dc8f2a66cbbdc297056b2b18bd8cf72",
-          "sha256": "06fc8eae745121f349559249b90cc5c59a8aa0832d1fa82a430556422a83e9b4",
-          "sha1": "2698b26f0b1ecb33f31f2dabccdf0d08311f590a",
-          "md5": "4b40d6dc37f02da915d321d92a225502"
+          "size": 178313,
+          "sha512": "ddc838c42e7cfc118dcfbb616958aada419044b6e895d72568f45444a8bfa1a891d0b2f0e5689872cb59cefdd89b18f1eff06a8b393cb8cadb42c20ed9d7aff5",
+          "sha256": "531d8fbab305feb9c1dcb3a3be08bd5e51be0c122eb5f25cd0450a152390be08",
+          "sha1": "43b9c78c2eec3cb1446bcaa5fbf49b7e0622a60a",
+          "md5": "00542185233d018741ca5e1663a3fb69"
         }
       ]
     }
