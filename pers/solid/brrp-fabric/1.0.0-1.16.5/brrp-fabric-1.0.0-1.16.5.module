@@ -1,0 +1,103 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "pers.solid",
+    "module": "brrp-fabric",
+    "version": "1.0.0-1.16.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "brrp-fabric-1.0.0-1.16.5.jar",
+          "url": "brrp-fabric-1.0.0-1.16.5.jar",
+          "size": 185977,
+          "sha512": "c6da48ed980059eb3cdbddecf22290b9deb92b57313317f343c37652273343a76e94c8e11b6b3caa1afd56fd2f4008a61e27dcfdd4246c307c9998c8003d56c6",
+          "sha256": "668932179b4d7eab4981b2b1f2bbd24ba389274941d29df4375f1e77e3ef59bf",
+          "sha1": "723545ca4075bdfded803f9e9af5822797e4a38f",
+          "md5": "4213c70a2196c31c5a689025b4a35874"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.19"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.42.0+1.16"
+          }
+        },
+        {
+          "group": "com.terraformersmc",
+          "module": "modmenu",
+          "version": {
+            "requires": "1.16.23"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "brrp-fabric-1.0.0-1.16.5.jar",
+          "url": "brrp-fabric-1.0.0-1.16.5.jar",
+          "size": 185977,
+          "sha512": "c6da48ed980059eb3cdbddecf22290b9deb92b57313317f343c37652273343a76e94c8e11b6b3caa1afd56fd2f4008a61e27dcfdd4246c307c9998c8003d56c6",
+          "sha256": "668932179b4d7eab4981b2b1f2bbd24ba389274941d29df4375f1e77e3ef59bf",
+          "sha1": "723545ca4075bdfded803f9e9af5822797e4a38f",
+          "md5": "4213c70a2196c31c5a689025b4a35874"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "brrp-fabric-1.0.0-1.16.5-sources.jar",
+          "url": "brrp-fabric-1.0.0-1.16.5-sources.jar",
+          "size": 135433,
+          "sha512": "d6fd5a218e94727ba7ca79c820bcf97b1ebccddef79973dd1c5802205bad70e6d1af2d0939377e753823c55d6c2a87578053708ab7fcbb3085c6d7450fa946d3",
+          "sha256": "654efdae354534a97dfeb67b2ed0871eaa38d5cbee936ef0552fb42e73803513",
+          "sha1": "2431abfd911ca7c8fd849efadc06e336eefc4d76",
+          "md5": "fc3922d421b02b57f8098b64e523ec29"
+        }
+      ]
+    }
+  ]
+}
