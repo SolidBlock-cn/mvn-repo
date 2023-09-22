@@ -1,0 +1,117 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "pers.solid.extshape",
+    "module": "extshape",
+    "version": "2.0.2-mc1.20.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "extshape-2.0.2-mc1.20.1.jar",
+          "url": "extshape-2.0.2-mc1.20.1.jar",
+          "size": 290488,
+          "sha512": "cc2365810030de7101dcc9c04bccf66928c4a8d3e3e45be01e5c6e515ff344b563aa9518d960ef1fdc6b3911bdf508d386b146d0d1f4e60cc572ef6ef59adbc2",
+          "sha256": "8e85d7e9a243972eadb343288391c93709a478262d4d103e04dfc31d9970d4e2",
+          "sha1": "f51a411b253a5c1af0f15ac401eb0195ac2ae725",
+          "md5": "f316d0f90991b669db275179aa6f9b84"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.22"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.88.1+1.20.1"
+          }
+        },
+        {
+          "group": "com.terraformersmc",
+          "module": "modmenu",
+          "version": {
+            "requires": "7.1.0"
+          }
+        },
+        {
+          "group": "pers.solid",
+          "module": "brrp-fabric",
+          "version": {
+            "requires": "1.0.1-1.20.1"
+          }
+        },
+        {
+          "group": "com.google.errorprone",
+          "module": "error_prone_annotations",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "extshape-2.0.2-mc1.20.1.jar",
+          "url": "extshape-2.0.2-mc1.20.1.jar",
+          "size": 290488,
+          "sha512": "cc2365810030de7101dcc9c04bccf66928c4a8d3e3e45be01e5c6e515ff344b563aa9518d960ef1fdc6b3911bdf508d386b146d0d1f4e60cc572ef6ef59adbc2",
+          "sha256": "8e85d7e9a243972eadb343288391c93709a478262d4d103e04dfc31d9970d4e2",
+          "sha1": "f51a411b253a5c1af0f15ac401eb0195ac2ae725",
+          "md5": "f316d0f90991b669db275179aa6f9b84"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "extshape-2.0.2-mc1.20.1-sources.jar",
+          "url": "extshape-2.0.2-mc1.20.1-sources.jar",
+          "size": 179763,
+          "sha512": "392ad402c6400f3dbed2adcc94cbcf859c78733ca924ba98995f8529a12c72ae99003eb50de37da0b2b2ecdc57bff5a41ea3da89d877019dc6de14ae773c1f3e",
+          "sha256": "bc2bced41755cdf032531de92bf4338e4baf6a251947e5e174259e4868506b8c",
+          "sha1": "d1d0e287e0ffde398ce54f08f2a9d4c303240cd7",
+          "md5": "10d801833fe4a2b3498975e02cf39e9d"
+        }
+      ]
+    }
+  ]
+}
